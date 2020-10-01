@@ -22,5 +22,43 @@ This season, like always, 16 teams entered the playoffs with the hopes of bringi
   7. Dallas Maverics
   8. Portland Trail Blazers
   
+  ### The First Round:
+  Eastern Conference:
   
+    Miluakee Bucks(1) vs Orlando Magic(8)
+    Miluakee won this series 4 games to 1.
+    
+    Toronto Raptors(2) vs Brooklyn Nets(7)
+    Toronto won this series 4 games to 0.
+    
+    Boston Celtics(3) vs Philidelphia 76ers(6)
+    Boston won this series 4 games to 0.
+    
+    Miami Heat(4) vs Indiana Pacers(5)
+    Miami won this series 4 games to 0.
+  
+  Highlights: In this first round of the playoffs, the Eastern Conference showed no surprise. In each series the favorite to win, won. 
+  
+  Western Conference: 
+    
+    Los Angeles Lakers(1) vs Portland Trail Blazers(8)
+    The Lakers won this series 4 games to 1.
+    
+    Los Angeles Clippers(2) vs Dallas Maverics(7)
+    The Clippers won this series 4 games to 2.
+    
+    Denver Nuggets(3) vs Utah Jazz(6)
+    The Nuggets won this series 4 games to 3.
+    
+    Houston Rockets(4) vs Oklahoma City Thunder(5)
+    The Rockets won this series 4 games to 2.
+    
+  
+    
+    
+    
+    
+    
+    
+    
   
