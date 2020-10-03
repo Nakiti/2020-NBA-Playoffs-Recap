@@ -25,7 +25,7 @@ This season, like always, 16 teams entered the playoffs with the hopes of bringi
   ### The First Round:
   Eastern Conference:
   
-    Miluakee Bucks(1) vs Orlando Magic(8)
+    Miluakee Bucks(1) vs Orlando Magic(8)   
     Miluakee won this series 4 games to 1.
     
     Toronto Raptors(2) vs Brooklyn Nets(7)
@@ -53,9 +53,19 @@ This season, like always, 16 teams entered the playoffs with the hopes of bringi
     Houston Rockets(4) vs Oklahoma City Thunder(5)
     The Rockets won this series 4 games to 2.
   
-  Highlights: The Western Conference, unlike the Eastern Conference, was a lot more interesting. 
-  
+  Highlights: The Western Conference, unlike the Eastern Conference, was a lot more interesting. Though there were no upsets, we saw the Utah Jazz almost elimate the Denver Nuggets. However, due to the stellar play of the Nugget's point gaurd, Jamal Murray, the Nuggets were able to come back from being behind three games to one. The Dallas Maverics and the Oklahoma City Thuner both proved a fair test for their opponents, however neither were able to win their series. 
+ 
+### The Semi-finals (Second Round)
+Eastern Conference:
     
+    Miluakee Bucks(1) vs Miami Heat(4)
+    Miami won this series 4 games to 1.
+    
+    Toronto Raptors(2) vs Boston Celtics(3)
+    Boston won this series 4 games to 3.
+  
+  Highlights: The second round of the Eastern Conference was very exciting. The Miluakee Bucks, one of the favorites to the win the NBA Championship (due to them having the two-time MVP Giannis Antetokounmpo), lost to the Miami Heat. The Heat were able to pull of this upset with great play from their two star Jimmy Butler and Bam Adebayo, unpredictably amazing play from their rookie Tyler Herro, and good play from the rest of the team. 
+    The Boston Celtics and Toronto Raptors series was also incredibly close. However, the Celtics were able to seal the deal and win the series with great play from all of their team.
     
     
     
