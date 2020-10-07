@@ -67,11 +67,11 @@ Eastern Conference:
     
 Western Conference:
   
-  Los Angeles Lakers(1) vs Houston Rockets(4)
-  The Lakers won this series 4 games to 1.
-  
-  Los Angeles Clippers(2) vs Denver Nuggets(3)
-  The Nuggets won this series 4 games to 3. 
+    Los Angeles Lakers(1) vs Houston Rockets(4)
+    The Lakers won this series 4 games to 1.
+
+    Los Angeles Clippers(2) vs Denver Nuggets(3)
+    The Nuggets won this series 4 games to 3. 
   
 ### The Conference Finals
   Eastern Conference:
@@ -83,6 +83,10 @@ Western Conference:
     
     Los Angeles Lakers(1) vs Denver Nuggets(3)
     The Lakers won this series 
+    
+### The NBA Finals
+   
+    Los Angeles Lakers(1) vs Miami Heat(4)
     
     
     
