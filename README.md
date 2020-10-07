@@ -91,7 +91,7 @@ Western Conference:
     
  
  
- For in depth analysis of each games and series you should go here: https://www.espn.com/nba/story/_/id/29647539/nba-finals-2020-schedules-news-odds-latest-updates-miami-heat-vs-los-angeles-lakers
+ For in depth analysis of each games and series and articls breaking down playoff news, you should go here: https://www.espn.com/nba/
     
     
     
