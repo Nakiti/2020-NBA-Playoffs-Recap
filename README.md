@@ -91,8 +91,8 @@ Western Conference:
     
  
  
- For in depth analysis of each games and series and articls breaking down playoff news, you should go here: https://www.espn.com/nba/
-    
+ For in depth analysis of each games and series and articls breaking down playoff news, you should go here: [Link}(https://www.espn.com/nba/
+    )
     
     
     
