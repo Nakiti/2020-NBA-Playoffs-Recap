@@ -1,6 +1,7 @@
 # Welcome!
 ## This website will be your guide to a recap of the 2020 NBA playoffs (so far).
 This season, like always, 16 teams entered the playoffs with the hopes of bringing home a championship.
+There are four rounds in the NBA playoffs (including the finals). In each round teams face off is a best of seven games series. Every round teams are elimnated until two are left who compete for the title of NBA champions.
   The eastern conference playoff teams (in order of total regular season wins) consisted of:
   1. Miluakee Bucks
   2. Toronto Raptors
@@ -35,8 +36,7 @@ This season, like always, 16 teams entered the playoffs with the hopes of bringi
     
     Miami Heat(4) vs Indiana Pacers(5)
     Miami won this series 4 games to 0.
-  
-  Highlights: In this first round of the playoffs, the Eastern Conference showed no surprise. In each series the favorite to win, won. We saw the superstars on each team perform as they were expected to. 
+ 
   
   Western Conference: 
     
@@ -51,8 +51,7 @@ This season, like always, 16 teams entered the playoffs with the hopes of bringi
     
     Houston Rockets(4) vs Oklahoma City Thunder(5)
     The Rockets won this series 4 games to 2.
-  
-  Highlights: The Western Conference, unlike the Eastern Conference, was a lot more interesting. Though there were no upsets, we saw the Utah Jazz almost elimate the Denver Nuggets. However, due to the stellar play of the Nugget's point gaurd, Jamal Murray, the Nuggets were able to come back from being behind three games to one. The Dallas Maverics and the Oklahoma City Thuner both proved a fair test for their opponents, however neither were able to win their series. 
+
  
 ### The Semi-finals (Second Round)
 Eastern Conference:
@@ -63,8 +62,6 @@ Eastern Conference:
     Toronto Raptors(2) vs Boston Celtics(3)
     Boston won this series 4 games to 3.
   
-  Highlights: The second round of the Eastern Conference was very exciting. The Miluakee Bucks, one of the favorites to the win the NBA Championship (due to them having the two-time MVP Giannis Antetokounmpo), lost to the Miami Heat. The Heat were able to pull of this upset with great play from their two star Jimmy Butler and Bam Adebayo, unpredictably amazing play from their rookie Tyler Herro, and good play from the rest of the team. 
-    The Boston Celtics and Toronto Raptors series was also incredibly close. However, the Celtics were able to seal the deal and win the series with great play from all of their team.
     
 Western Conference:
   
@@ -73,6 +70,17 @@ Western Conference:
   
   Los Angeles Clippers(2) vs Denver Nuggets(3)
   The Nuggets won this series 4 games to 3. 
+  
+### The Conference Finals
+  Eastern Conference:
+  
+    Boston Celtics(3) vs Miami Heat(4)
+    Miami won this series 4 games to 3.
+    
+   Western Conference:
+    
+    Los Angeles Lakers(1) vs Denver Nuggets(3)
+    The Lakers won this series 
     
     
     
