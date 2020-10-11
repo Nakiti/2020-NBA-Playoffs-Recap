@@ -38,6 +38,8 @@ There are four rounds in the NBA playoffs (including the finals). In each round 
     
     Miami Heat(4) vs Indiana Pacers(5)
     Miami won this series 4 games to 0.
+    
+   Highlights: There were no upsets in for the Eastern Conference in the first round of the playoffs. The teams expected to advance did so, and the player expected to perform well did so as well.
  
   
   Western Conference: 
@@ -53,6 +55,8 @@ There are four rounds in the NBA playoffs (including the finals). In each round 
     
     Houston Rockets(4) vs Oklahoma City Thunder(5)
     The Rockets won this series 4 games to 2.
+    
+  Highlights: Although there were no upsets in this conference, there were many close games and series. In the Clippers vs. Maverics and the Rockets vs Thunder series, both of the lower-seeded teams proved to be an unexecpected chalenge for their opponents. In the Nuggets vs Jazz series, the Nuggets were down 3 games to 1. However, they were able to come back and win the series. In any circumstance having to win 3 games in a row while the opposing team has the opportunity to finish the series in any game, is extremely difficult. The Nuggets were able to do this due to stellar play from one of their best players, Jamal Murray. The Lakers vs Trail Blazers series ended as expected, with the Lakers easily winning.  
 
  
 ### The Semi-finals (Second Round)
@@ -64,6 +68,7 @@ Eastern Conference:
     Toronto Raptors(2) vs Boston Celtics(3)
     Boston won this series 4 games to 3.
   
+  Highlights: Ths round, unlike the first round of the Eastern Conference, was very interesting. The Miami Heat unexpectedly were able to beat the team that had one the most games in the NBA, the Milaukee Bucks. Although the final series score may not seem close (4-1), each of the games were extremely close. Each game players of the Heat, played extremely well. The Raptors vs Celtics series was expected to be a evenly contested series, and it was. Both teams fought well, but in the end the celtics were able to advance in 7 games. 
     
 Western Conference:
   
@@ -72,17 +77,24 @@ Western Conference:
 
     Los Angeles Clippers(2) vs Denver Nuggets(3)
     The Nuggets won this series 4 games to 3. 
+    
+   Highlights: In the Lakers vs Rockets series, the Lakers were able to win the series easily. The Rockets were thought to be a challenge for the Lakers as they played very fast, unlike the Lakers. However, the Lakers were able to figure out how to beat the Rockets, and ended up doing so. The Clippers vs Nuggets ceries was very fun to watch. The Clippers, the favorite to win the NBA championship, lost in 7 games to the Denver Nuggets. The Clippers had 3 games to 1 lead over the Nuggets, but were unable to seal the deal. This also means that the Nuggets have came back from being down 3 games to 1 in two series. Doing this once is extremely difficult, but the Nuggets have done it twice.  
+   
   
 ### The Conference Finals
   Eastern Conference:
   
     Boston Celtics(3) vs Miami Heat(4)
-    Miami won this series 4 games to 3.
+    Miami won this series 4 games to 2.
+    
+   Highlights: This was another series that was expected to be evenly contested, and it was. Although the final scores of some of the games may not show that the games were close, they were. However, in the end the Miami Heat were able to win and take the title of Eastern Conference champions and advance to the Finals. At the beginning of the season, the Heat were not expected to advance this far into the playoffs, but were able to do so. 
     
    Western Conference:
     
     Los Angeles Lakers(1) vs Denver Nuggets(3)
-    The Lakers won this series 
+    The Lakers won this series 4 games to 1. 
+    
+   Highlights: Due to the Nuggets winning their previous series despite being down 3 games to 1, many thought that the Nuggets would be a challenge to the Lakers. However, the Lakers won this series in the end and took the title of Western Conference Champions and go to the Finals. Although Lakers having two of the arguably top five players in the NBA on their team, many people thought that they would not be able to advance to the Finals. 
     
 ### The NBA Finals
 
@@ -91,7 +103,7 @@ Western Conference:
     
  
  
- For in depth analysis of each games and series and articls breaking down playoff news, you should click [here](https://www.espn.com/nba/
+ For in depth analysis of each games and series and articles breaking down playoff news, you should click [here](https://www.espn.com/nba/
     )
     
     
