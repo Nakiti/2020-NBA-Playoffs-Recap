@@ -5,7 +5,9 @@ There are four rounds in the NBA playoffs (including the finals). In each round 
 
 
 
-![download](https://user-images.githubusercontent.com/72160854/95380634-de738d80-089b-11eb-8967-477af7774a0d.png) 
+  ![download](https://user-images.githubusercontent.com/72160854/95380634-de738d80-089b-11eb-8967-477af7774a0d.png) 
+
+
   The eastern conference playoff teams (in order of total regular season wins) consisted of:
   1. Miluakee Bucks
   2. Toronto Raptors
