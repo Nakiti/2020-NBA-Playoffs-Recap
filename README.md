@@ -103,10 +103,12 @@ Western Conference:
 ### The NBA Finals
 
 
+            ![download (5)](https://user-images.githubusercontent.com/72160854/95685044-5b5b7b80-0baa-11eb-95e7-564d046a8795.jpeg)
+
+
     Los Angeles Lakers(1) vs Miami Heat(4)
     
     
-   ![download (5)](https://user-images.githubusercontent.com/72160854/95685044-5b5b7b80-0baa-11eb-95e7-564d046a8795.jpeg)
     
  
  
