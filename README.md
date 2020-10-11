@@ -5,7 +5,7 @@ There are four rounds in the NBA playoffs (including the finals). In each round 
 
 
 
-  ![download](https://user-images.githubusercontent.com/72160854/95380634-de738d80-089b-11eb-8967-477af7774a0d.png) 
+![download](https://user-images.githubusercontent.com/72160854/95380634-de738d80-089b-11eb-8967-477af7774a0d.png) 
 
 
   The eastern conference playoff teams (in order of total regular season wins) consisted of:
@@ -103,7 +103,7 @@ Western Conference:
 ### The NBA Finals
 
 
-            ![download (5)](https://user-images.githubusercontent.com/72160854/95685044-5b5b7b80-0baa-11eb-95e7-564d046a8795.jpeg)
+![download (5)](https://user-images.githubusercontent.com/72160854/95685044-5b5b7b80-0baa-11eb-95e7-564d046a8795.jpeg)
 
 
     Los Angeles Lakers(1) vs Miami Heat(4)
