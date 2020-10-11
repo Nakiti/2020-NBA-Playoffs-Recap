@@ -27,8 +27,8 @@ There are four rounds in the NBA playoffs (including the finals). In each round 
   7. Dallas Maverics
   8. Portland Trail Blazers
   
-  ### The First Round:
-  Eastern Conference:
+### The First Round:
+Eastern Conference:
   
     Miluakee Bucks(1) vs Orlando Magic(8)   
     Miluakee won this series 4 games to 1.
@@ -45,7 +45,7 @@ There are four rounds in the NBA playoffs (including the finals). In each round 
    Highlights: There were no upsets in for the Eastern Conference in the first round of the playoffs. The teams expected to advance did so, and the player expected to perform well did so as well.
  
   
-  Western Conference: 
+Western Conference: 
     
     Los Angeles Lakers(1) vs Portland Trail Blazers(8)
     The Lakers won this series 4 games to 1.
