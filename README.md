@@ -105,7 +105,7 @@ Western Conference:
     Los Angeles won this series 4 games to 2.
     
   
-  **The Los Angeles Lakers are the NBA Champions.
+The Los Angeles Lakers are the NBA Champions!
   
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72160854/95685044-5b5b7b80-0baa-11eb-95e7-564d046a8795.jpeg">
