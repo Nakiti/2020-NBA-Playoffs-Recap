@@ -1,5 +1,5 @@
 # Welcome!
-## This website will be your guide to a recap of the 2020 NBA playoffs (so far).
+## This website will be your guide to a recap of the 2020 NBA playoffs.
 This season, like always, 16 teams entered the playoffs with the hopes of bringing home a championship.
 There are four rounds in the NBA playoffs (including the finals). In each round teams face off is a best of seven games series. Every round teams are elimnated until two are left who compete for the title of NBA champions.
 
@@ -101,14 +101,17 @@ Western Conference:
     
 ### The NBA Finals
 
+    Los Angeles Lakers(1) vs Miami Heat(4)
+    Los Angeles won this series 4 games to 2.
+    
+  
+  **The Los Angeles Lakers are the NBA Champions.
+  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72160854/95685044-5b5b7b80-0baa-11eb-95e7-564d046a8795.jpeg">
 </p>
-
-
-    Los Angeles Lakers(1) vs Miami Heat(4)
-    
-    
+  
+  Behing amazing play from Lebron James, who won the Finals MVP, and Anthony Davis, the Los Angeles Lakers were able to beat the Miami Heat to win the title of NBA Champions!
     
  
  
